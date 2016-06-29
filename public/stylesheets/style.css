@@ -1,0 +1,35 @@
+.btn {
+  text-shadow: 0 1px 1px rgba(0,0,0,.2);
+}
+
+.label-success {
+  font-size: 16px;
+}
+
+.navbar-brand {
+  font-family: 'Arial Black', sans-serif;
+  font-size: 24px;
+  padding-right: 4px;
+}
+
+.brand-img {
+  width: 50px;
+  float: left;
+}
+
+.navbar-default .navbar-brand {
+    color: #333;
+}
+
+.thumbnail img {
+  max-height: 240px;
+}
+
+.thumbnail .description {
+  color: #7f7f7f;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 16px;
+}
