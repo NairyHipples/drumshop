@@ -1,0 +1,22 @@
+IP:
+- localhost:3000
+
+Databasen i mongo shell:
+- use shopping
+
+Hitta produkter i mongo shell: 
+- db.products.find()
+
+Hitta användare i mongo shell: 
+- db.users.find()
+
+Starta appen: 
+- npm start
+
+För att göra reset på din session & tömma din cart:
+- developer tools/
+- resources/
+- cookies/
+- localhost/
+- högerklicka och clear all from "localhost" 
+- ladda om sidan
