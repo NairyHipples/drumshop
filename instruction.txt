@@ -1,6 +1,9 @@
 IP:
 - localhost:3000
 
+GitHub repo:
+- https://github.com/NairyHipples/drumshop/
+
 Databasen i mongo shell:
 - use shopping
 
